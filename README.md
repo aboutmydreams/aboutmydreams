@@ -11,4 +11,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmydreams)](https://github.com/anuraghazra/github-readme-stats)
 
 #### These are my favorite languages  👋
-[lang-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=dreamer2q&show_icons=true&layout=compact&theme=vue
+[lang-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmydreams&show_icons=true&layout=compact&theme=vue
