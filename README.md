@@ -11,4 +11,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmydreams)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmydreams&layout=compact&hide_border=true&langs_count=10)
 
-![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/assets/github-contribution-grid-snake.svg) 
+![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/github-contribution-grid-snake.svg) 
