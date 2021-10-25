@@ -9,8 +9,4 @@
   - Just fighting！
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmydreams)](https://github.com/anuraghazra/github-readme-stats)
-
-#### These are my favorite languages  👋
-Welcome to communicate with me.
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmydreams&show_icons=true&layout=compact&theme=vue)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmydreams&layout=compact&hide_border=true&langs_count=10)
