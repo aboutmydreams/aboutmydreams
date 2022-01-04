@@ -7,7 +7,7 @@
   - There is no nervous eating and death, no endless noise. Thoughts can slow down and chase dreams. 
   - There is no stability, no end, darkness is alone, and the starry sky is shining.
   - Just fighting！
-  - Welcome to drop: @OSSDAO-ORG•AIRDROP-0x5f3A9b1330058441C262B4efB8e63684EAC24092
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmydreams)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmydreams&layout=compact&hide_border=true&langs_count=10)
