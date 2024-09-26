@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DApp Develop and AI Research at [BuidlerDAO](https://buidlerdao.xyz/)
-- 🦄 Before that, I worked at Tencent, Gemsouls and NetEase（Not always research AI）. Maybe you want to ask me why I started a business, and there is answer.
+- 🫶 Hello, I'm diven. I'm working on developing prompt generation API and the AI ​​framework of flutter APP. I hope more people can change the world through ideas and buy more cups of coffee.
+- 🔭 I engaged in DApp development and artificial intelligence research at [BuidlerDAO](https://buidlerdao.xyz/) from 2022 to 2024.
+- 🦄 Before that, I worked at Tencent, Gemsouls and NetEase AI Lab（Not always research AI）. Maybe you want to ask me why I started a business, and there is answer.
   - Although there is no high-quality equipment, no canteen, no house supplement, no gym, and no old friends. 
   - I really want to say it's no big deal, I only have myself, and I can finally have myself. 
   - There is no nervous eating and death, no endless noise. Thoughts can slow down and chase dreams. 
