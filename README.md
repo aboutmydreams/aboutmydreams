@@ -13,7 +13,9 @@ Building **AI-native products & systems**.
 * 🌊 Web3: building on **Sui**
 * 🛠 Stack: Remix · TS · FastAPI · Flutter
 * 💭 X: [https://x.com/aboutdreamfly](https://x.com/aboutdreamfly)
-Previously:
+
+
+#### Previously:
 
 * BuidlerDAO (DApp & AI, 2022–2024)
 * Tencent · NetEase AI Lab · Gemsouls
