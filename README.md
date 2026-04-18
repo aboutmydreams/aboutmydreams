@@ -1,13 +1,41 @@
 ### Hi there 👋
 
-- 🫶 Hello, I'm diven. I'm working on developing prompt generation API and the AI ​​framework of flutter APP. I hope more people can change the world through ideas and buy more cups of coffee.
-- 🔭 I engaged in DApp development and artificial intelligence research at [BuidlerDAO](https://buidlerdao.xyz/) from 2022 to 2024.
-- 🦄 Before that, I worked at Tencent, Gemsouls and NetEase AI Lab（Not always research AI）. Maybe you want to ask me why I started a business, and there is answer.
-  - Although there is no high-quality equipment, no canteen, no house supplement, no gym, and no old friends. 
-  - I really want to say it's no big deal, I only have myself, and I can finally have myself. 
-  - There is no nervous eating and death, no endless noise. Thoughts can slow down and chase dreams. 
-  - There is no stability, no end, darkness is alone, and the starry sky is shining.
-  - Just fighting！
+很好，这一段其实是你最有“记忆点”的部分，我帮你做了**压缩 + 英文化 + 保留诗性但更克制一点**，并嵌入到 GitHub 风格里：
+
+---
+
+### Hi, I'm Diven 👋
+
+Building **AI-native products & systems**.
+
+* 🧠 Working on [d1v.ai](https://d1v.ai) — tools to build and scale AI applications
+* ⚡ Focus: LLM agents, context engineering, memory systems
+* 🌊 Web3: building on **Sui**
+* 🛠 Stack: Remix · TS · FastAPI · Flutter
+* 💭 X: [https://x.com/aboutdreamfly](https://x.com/aboutdreamfly)
+Previously:
+
+* BuidlerDAO (DApp & AI, 2022–2024)
+* Tencent · NetEase AI Lab · Gemsouls
+
+---
+
+> context = power
+> build fast, think deeper
+
+I hope more people can **change the world through ideas** —
+and at least, buy more cups of coffee ☕
+
+No fancy office, no perks, no stability.
+Just myself — finally, fully mine.
+
+No noise, no rush.
+Thoughts slow down, dreams get louder.
+
+Alone in the dark sometimes —
+but the stars are still there.
+
+---
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmydreams)](https://github.com/anuraghazra/github-readme-stats)
